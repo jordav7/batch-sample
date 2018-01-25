@@ -1,6 +1,5 @@
 package com.krnzft.batch.writer;
 
-import java.util.Iterator;
 import java.util.List;
 
 import org.springframework.batch.item.ItemWriter;
